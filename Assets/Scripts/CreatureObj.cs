@@ -15,7 +15,7 @@ public class CreatureObj : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		speed = -3f;
+		speed = -1f;
 	}
 	
 	// Update is called once per frame
